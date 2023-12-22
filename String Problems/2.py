@@ -1,11 +1,11 @@
-# #reverse
+#reverse
 
-# def reverse(s):
-#     split_words = s.split(" ")
-#     reverse_words = split_words[::-1]
-#     return " ".join(reverse_words)
+def reverse(s):
+    split_words = s.split(" ")
+    reverse_words = split_words[::-1]
+    return " ".join(reverse_words)
 
-# print(reverse("this is a test"))
+print(reverse("this is a test"))
 
 
 # Another Type
