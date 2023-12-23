@@ -15,11 +15,11 @@
 # #another type:
 
 
-# n="his is the lenght of the string"
+n="his is the lenght of the string"
 
-# s=n.split(" ") 
-# l=list(filter(lambda x: (len(x)%2==0),s)) 
-# print(l)
+s=n.split(" ") 
+l=list(filter(lambda x: (len(x)%2==0),s)) 
+print(l)
 
 # #another type:
 
