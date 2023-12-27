@@ -18,10 +18,10 @@
 # # print("Cube of list is(Another method) : ",result)
 
 # ####another type
-# list1 = [1, 2, 5, 6]
+list1 = [1, 2, 5, 6]
 
-# result = list(map(lambda x:(x, x**3), list1))
-# print(result)
+result = list(map(lambda x:(x, x**3), list1))
+print(result)
 
 #### one Beautiful method
 
