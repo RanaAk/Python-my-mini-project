@@ -1,21 +1,23 @@
 
-# # list1 = [1, 2, 5, 6]
-# # #with out cube
+list1 = [1, 2, 5, 6]
+#with out cube
 
-# # res = [(x,x) for x in list1]
+res = [(x,x) for x in list1]
 
 
-# # print(res)
+print(res)
 
-# # ###after Cube
+###after Cube
 
-# # result = [(x, pow(x,3)) for x in list1]
-# # print("Cube of list is : ", result)
+result = [(x, pow(x,3)) for x in list1]
+print("Cube of list is : ", result)
 
-# # ####or 
+####or 
 
-# # result = [(x, x**3) for x in list1]
-# # print("Cube of list is(Another method) : ",result)
+result = [(x, x**3) for x in list1]
+print("Cube of list is(Another method) : ",result)
+
+###################
 
 # ####another type
 list1 = [1, 2, 5, 6]
