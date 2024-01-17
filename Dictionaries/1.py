@@ -10,4 +10,4 @@
 # mydict = {i: my_dict[i] for i in inlist}
 
 # print(my_dict)
-# print(my_dict2)
+print(my_dict2)
