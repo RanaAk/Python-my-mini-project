@@ -1,10 +1,10 @@
-import itertools
-str_ = "iamahero"
+# import itertools
+# str_ = "iamahero"
 
-str_itr = iter(str_)
+# str_itr = iter(str_)
 
-while True:
-    try:
-        print(next(str_itr))
-    except StopIteration:
-        quit()
+# while True:
+#     try:
+#         print(next(str_itr))
+#     except StopIteration:
+#         quit()
