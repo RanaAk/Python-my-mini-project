@@ -1,16 +1,16 @@
 
-# a = [1,2,3,4,5,6,7,8,9,10]
+a = [1,2,3,4,5,6,7,8,9,10]
 
-# # b =[]
+# b =[]
 
-# # b = a[0]
+# b = a[0]
 
-# # a[0] = a[-1]
+# a[0] = a[-1]
 
-# # a[-1] = b
+# a[-1] = b
 
-# # print(a)
-# #new method
+# print(a)
+#new method
 a = [1,2,3,4,5,6,7,8,9,10]
 def swapList(newList):
     size = len(newList)
