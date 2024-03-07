@@ -18,6 +18,8 @@ def check_palindrome_and_symmetric(a):
 
 check_palindrome_and_symmetric(a)
 
+######
+
 
 
 
